@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: ca7ab06e76e55a643a9102505f9069d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -740459791617722969
+    second: punk pony club grande_0
+  - first:
+      213: 2691337351728831033
+    second: punk pony club grande_1
+  - first:
+      213: -8119426359021470261
+    second: punk pony club grande_2
+  - first:
+      213: -1190188297846404353
+    second: punk pony club grande_3
+  - first:
+      213: -8179017117990230292
+    second: punk pony club grande_4
+  - first:
+      213: 4111478977297444849
+    second: punk pony club grande_5
+  - first:
+      213: -5216380138061522693
+    second: punk pony club grande_6
+  - first:
+      213: -8924432073491754223
+    second: punk pony club grande_7
+  - first:
+      213: 1719887667414409744
+    second: punk pony club grande_8
+  - first:
+      213: 7270133999364605413
+    second: punk pony club grande_9
+  - first:
+      213: 7083237451957570558
+    second: punk pony club grande_10
+  - first:
+      213: -6214258926398735988
+    second: punk pony club grande_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: punk pony club grande_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 263
+        width: 154
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a57a2e1ebb59b5f0800000000000000
+      internalID: -740459791617722969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: punk pony club grande_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 279
+        width: 26
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a9984ef0d895520800000000000000
+      internalID: 2691337351728831033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: punk pony club grande_2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 271
+        width: 114
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdf49abeb0025f80800000000000000
+      internalID: -8119426359021470261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: punk pony club grande_3
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 271
+        width: 122
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffac90b8c0a9b7fe0800000000000000
+      internalID: -1190188297846404353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: punk pony club grande_4
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 279
+        width: 114
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce66a56f34b4e7e80800000000000000
+      internalID: -8179017117990230292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: punk pony club grande_5
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 295
+        width: 98
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffec47a858ee0930800000000000000
+      internalID: 4111478977297444849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: punk pony club grande_6
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 279
+        width: 106
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf89079e6e1bb97b0800000000000000
+      internalID: -5216380138061522693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: punk pony club grande_7
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 287
+        width: 97
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113db65105c062480800000000000000
+      internalID: -8924432073491754223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: punk pony club grande_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 218
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012afcd98b44ed710800000000000000
+      internalID: 1719887667414409744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: punk pony club grande_9
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 31
+        width: 210
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e50e958a54b4e460800000000000000
+      internalID: 7270133999364605413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: punk pony club grande_10
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 23
+        width: 186
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb8ca71fe6bc4260800000000000000
+      internalID: 7083237451957570558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: punk pony club grande_11
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 15
+        width: 226
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89f3b55e6482c9a0800000000000000
+      internalID: -6214258926398735988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      punk pony club grande_0: -740459791617722969
+      punk pony club grande_1: 2691337351728831033
+      punk pony club grande_10: 7083237451957570558
+      punk pony club grande_11: -6214258926398735988
+      punk pony club grande_2: -8119426359021470261
+      punk pony club grande_3: -1190188297846404353
+      punk pony club grande_4: -8179017117990230292
+      punk pony club grande_5: 4111478977297444849
+      punk pony club grande_6: -5216380138061522693
+      punk pony club grande_7: -8924432073491754223
+      punk pony club grande_8: 1719887667414409744
+      punk pony club grande_9: 7270133999364605413
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
